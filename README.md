@@ -1,6 +1,6 @@
 # HTML-CSS-Course
 
-Hand on Exercise Video.051
+1st Hand on Exercise Video.051+052
 
 ●	Challenges
 
@@ -26,4 +26,45 @@ Hand on Exercise Video.051
 
 ■	chapter07/index.html
 
+--------------------------------------------------------------------
+
+2nd Hand on Exercise Video.062
+
+1) Place a div on a page. Format the div to have a width, height, and background color.
+
+●	(2) Take the code from “Hands-On Exercise (1)” and round the corners of the div.
+
+●	(3) Take the code from “Hands-On Exercise (2)” and give the div a grooved border which is 20px.
+
+●	(4) Create a new HTML document. Place two divs on the HTML document. 
+
+○	Format both divs with the following declarations:
+
+■	width: 400px;
+
+■	height: 200px;
+
+■	border: 10px dashed red;
+
+■	margin: 20px auto;
+
+●	TRBL
+
+●	TB   RL
+
+●	T   R   B   L 
+
+○	Also format the second div with this declaration:
+
+■	box-sizing: border-box;
+
+●	(5) Take the code from “Hands-On Exercise (3)” and give the div a background image by using the following CSS declarations:
+
+○	background-image: url("path/to/some/image.png"); 
+
+○	background-size: cover; 
+
+○	background-repeat: no-repeat;
+
+●	Description
 
