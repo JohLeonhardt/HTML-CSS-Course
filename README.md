@@ -66,4 +66,12 @@
 
 ○	background-repeat: no-repeat;
 
+--------------------------------------------------------------------
 
+3rd Hand on Exercise Video.075
+
+Create this page (pic in word). 
+Make sure you use a stylesheet to format your headings. 
+Include a css reset stylesheet. 
+Link your stylesheets to your html document. 
+Push your code to github.
