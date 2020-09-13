@@ -1,0 +1,28 @@
+body {
+  font-size: 20px;
+  text-align: center;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: fuchsia;
+}
+p {
+  margin: 15px;
+}
+p::first-letter {
+  font-family: fantasy;
+  font-size: 40px;
+  line-height: .5;
+}
+p::first-line {
+  color: darkgreen;
+  font-weight: 500;
+}

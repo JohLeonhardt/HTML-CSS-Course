@@ -1,0 +1,16 @@
+body {
+  font-size: 20px;
+  text-align: center;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: fuchsia;
+}
