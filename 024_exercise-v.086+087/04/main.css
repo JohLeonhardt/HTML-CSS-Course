@@ -1,0 +1,12 @@
+
+/* p has a specificity of 1 */
+p {
+  color: red;
+}
+
+/* [target] has a specificity of 1 */
+[target="div1"] {
+  color: blue;
+}
+
+/* [target] wins - because it is the last css specification*/

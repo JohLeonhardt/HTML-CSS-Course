@@ -1,0 +1,12 @@
+
+/* .test1 has a specificity of 10 */
+.text1 {
+  color: red;
+}
+
+/* #div1 has a specificity of 100 */
+#div1 {
+  color: blue;
+}
+
+/* id wins - has a 100 specificity */

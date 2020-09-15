@@ -97,3 +97,17 @@ Push your code to github.
 ●	(8) Use this emmet to create this html within an html page’s body tag ...    p{$}+div>p{$$}*3+article>p>lorem^^^p{$$$}*3    … and then, once the html is created, do the following: select all p tags that are siblings following a div and make them red.
 
 ●	(9) Use this emmet to create this html within an html page’s body tag ...    p{$}+div>p{$$}*3+article>p>lorem^^^p{$$$}*3    … and then, once the html is created, do the following: select all p tags that are an immediate sibling following a div and make it red.
+
+--------------------------------------------------------------------
+
+5th Hand on Exercise Video.086+087
+
+●	(1) Write some CSS that has two rules applying to the same element. The first rule should use a class and the second rule should use an ID. Calculate the CSS specificity of each rule to explain which rule won.
+
+●	(2) Write some CSS that has two rules applying to the same element. The first rule should use an element selector and the second rule should use an ID. Calculate the CSS specificity of each rule to explain which rule won.
+
+●	(3) Write some CSS that has two rules applying to the same element. The first rule should use an element selector and the second rule should use a class. Calculate the CSS specificity of each rule to explain which rule won.
+
+●	(4) Write some CSS that has two rules applying to the same element. The first rule should use an element selector and the second rule should use an attribute. Calculate the CSS specificity of each rule to explain which rule won.
+
+●	(5) Write some CSS that has two rules applying to the same element. The first rule should use an class selector and the second rule should use an attribute. Calculate the CSS specificity of each rule. Explain which rule won and why.
