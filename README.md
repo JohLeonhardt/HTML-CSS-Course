@@ -111,3 +111,26 @@ Push your code to github.
 ●	(4) Write some CSS that has two rules applying to the same element. The first rule should use an element selector and the second rule should use an attribute. Calculate the CSS specificity of each rule to explain which rule won.
 
 ●	(5) Write some CSS that has two rules applying to the same element. The first rule should use an class selector and the second rule should use an attribute. Calculate the CSS specificity of each rule. Explain which rule won and why.
+
+--------------------------------------------------------------------
+
+6th Hand on Exercise Video.101+102
+
+
+●	(1) Use a generic serif font in an HTML document.
+
+●	(2) Use a generic san-serif font in an HTML document.
+
+●	(3) Use a font from Google fonts that has different font-weights. Use the different font-weights.
+
+●	(4) Using CSS, transform all of the text of a sentence to uppercase and italic.
+
+●	(5) Set spacing between characters in a short phrase.
+
+●	(6) Add shadow to the text in a H1 tag.
+
+●	(7) Remove the underline on an anchor tag. And then add the underline in when someone hovers over the link.
+
+●	(8) Show text that is no longer relevant by putting a line through it.
+
+●	(9) Indent the first line of a paragraph.

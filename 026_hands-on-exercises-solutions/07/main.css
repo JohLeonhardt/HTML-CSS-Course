@@ -1,0 +1,8 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* (7) Remove the underline on an anchor tag. And then add the underline in when someone hovers over the link. */

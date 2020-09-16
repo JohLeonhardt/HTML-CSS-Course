@@ -1,0 +1,10 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+h1 {
+  font-weight: 400;
+}
+p {
+  font-weight: 900;
+}
+/* (3) Use a font from Google fonts that has different font-weights. Use the different font-weights. */
