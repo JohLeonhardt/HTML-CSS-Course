@@ -1,0 +1,37 @@
+* {
+  margin: 10px;
+}
+body { 
+  font-family: sans-serif;
+  text-align: center;
+}
+main {
+  width: 75%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+header {
+    padding: 50px;
+    background-color: lightgrey;
+}
+section {
+  padding: 50px;
+  display: flex;
+  background-color: lightgray;
+}
+article {
+  display: flex;
+  padding: 50px;
+    background-color: dimgray;
+}
+aside {
+  display: flex;
+  padding: 50px;
+    background-color: lightgray;
+}
+footer {
+  padding: 50px;
+  background-color: lightgray;
+}
+

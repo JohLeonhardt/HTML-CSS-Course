@@ -134,3 +134,9 @@ Push your code to github.
 ●	(8) Show text that is no longer relevant by putting a line through it.
 
 ●	(9) Indent the first line of a paragraph.
+
+--------------------------------------------------------------------
+
+7th Hand on Exercise Video.115
+
+●	Create each of the following pages. Only create the HTML structure. Do not style the pages.
