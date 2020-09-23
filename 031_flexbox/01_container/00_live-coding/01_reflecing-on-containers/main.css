@@ -1,0 +1,14 @@
+div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border: 2px solid blue;
+}
+
+header {
+    display: flex;
+    /* flex-direction: row; //these are default and don't need to be typed out when you have display: flex; */
+    /*flex-wrap: nowrap;  //these are default and don't need to be typed out when you have display: flex;*/
+    justify-content: space-between;
+    border: 1px solid red;
+}
