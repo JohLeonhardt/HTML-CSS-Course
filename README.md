@@ -140,3 +140,14 @@ Push your code to github.
 7th Hand on Exercise Video.115
 
 ●	Create each of the following pages. Only create the HTML structure. Do not style the pages.
+
+
+--------------------------------------------------------------------
+
+8th Hand on Exercise Video.146
+
+1.	Create eight pages which rearrange this code by changing the properties of the flex container. Upload your code to Github.
+
+2.	Create six pages with each page demonstrating one of the properties which can be set on a flex item. Upload your code to Github.
+
+
