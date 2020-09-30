@@ -1,0 +1,31 @@
+header, nav, article, aside, footer {
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 2rem;
+    text-shadow: 0px 2px 6px grey;
+    background: skyblue;
+    text-align: center;
+    border-top: 5px solid lightblue;
+    border-bottom: 4px solid rgb(74, 135, 174);
+    border-left: 5px solid lightblue;
+    border-right: 4px solid rgb(104, 117, 165);
+    justify-content: center;
+    letter-spacing: 0.5rem;
+    text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+  padding: 5px 0;
+  border-radius: 20%;
+  border-top: 5px solid rgba(255,255,255,0.3);
+  border-bottom: 5px solid rgba(0,0,0,0.1);
+  border-left: 4px solid rgba(255,255,255,0.3);
+  border-right: 4px solid rgba(0,0,0,0.1);
+}
+a:hover {
+  background: royalblue;
+}
+
