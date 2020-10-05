@@ -1,0 +1,17 @@
+div, img {
+  border: 5px solid royalblue;
+  margin: 30px;
+}
+div {
+  overflow: auto;
+}
+#left {
+  float: left;
+  float: inline-end;
+  border: 3px solid lime;
+}
+p {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 6px solid darkviolet;
+}

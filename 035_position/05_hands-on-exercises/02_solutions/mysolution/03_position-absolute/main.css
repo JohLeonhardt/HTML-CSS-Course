@@ -1,0 +1,19 @@
+#one {
+    position: relative;
+    width: 800px;
+    height: 350px;
+    border: 6px solid darkblue;
+    background-color: skyblue;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#two {
+    position: absolute;
+    top: 40px;
+    right: 60px;
+    width: 250px;
+    height: 150px;
+    border: 6px solid darkgreen;
+    background-color: greenyellow;
+}

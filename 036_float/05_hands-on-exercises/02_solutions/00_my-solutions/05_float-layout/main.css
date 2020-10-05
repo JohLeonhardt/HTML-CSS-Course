@@ -1,0 +1,52 @@
+body {
+  max-width: 900px;
+  margin: 40px auto;
+}
+nav {
+  border: 5px solid royalblue;
+  box-sizing: border-box;
+  padding: 15px;
+}
+ul {
+  justify-content: center;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  padding: 5px 0;
+  color: black;
+  padding: 5px;
+  font-family: sans-serif;
+  font-size: 1.1em;
+  text-align: center;
+  border-top: 4px solid lightgray;
+  border-bottom: 4px solid dimgray;
+  border-left: 4px solid lightgray;
+  border-right: 4px solid dimgray;
+  display: block;
+}
+a:hover {
+  background: royalblue;
+}
+nav {
+  float: left;
+  width: 26.56%;
+}
+div {
+  float: right;
+  width: 72.3%;
+  height: 317px;
+  overflow: auto;
+  border: 5px ridge lime;
+}
+#right {
+  float: right;
+}
+section {
+  padding: 20px;
+}
+img {
+  border: 4px solid purple;
+  margin-top: 10px;
+  margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+  border: 7px solid rgb(4, 244, 4);
+}
+div {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border: 6px solid deeppink;
+  background-color: royalblue;
+  font-weight: bold;
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: aqua;
+}
+#relative {
+  position: relative;
+  top: 30px;
+  left: 100px;
+}

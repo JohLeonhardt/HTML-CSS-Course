@@ -1,0 +1,43 @@
+body {
+  max-width: 900px;
+  margin: 40px auto;
+}
+nav, main {
+  border: 5px solid royalblue;
+  box-sizing: border-box;
+  padding: 15px;
+}
+ul {
+  justify-content: center;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  padding: 5px 0;
+  color: black;
+  padding: 5px;
+  font-family: sans-serif;
+  font-size: 1.1em;
+  text-align: center;
+  border-top: 4px solid lightgray;
+  border-bottom: 4px solid dimgray;
+  border-left: 4px solid lightgray;
+  border-right: 4px solid dimgray;
+  display: block;
+}
+a:hover {
+  background: royalblue;
+}
+nav {
+  float: left;
+  width: 25%;
+}
+main {
+  float: right;
+  width: 75%;
+}
+article {
+  clear: both;
+  border: 10px ridge lime;
+  padding: 15px;
+}

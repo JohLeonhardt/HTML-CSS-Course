@@ -1,0 +1,12 @@
+div, img {
+  border: 5px solid royalblue;
+  margin: 20px;
+}
+#left {
+  float: left;
+  border: 3px solid lime;
+}
+p {
+  border: 6px solid darkviolet;
+  padding: 10px;
+}
