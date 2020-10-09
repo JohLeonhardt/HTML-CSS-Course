@@ -1,0 +1,20 @@
+html, body, h1 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  /* background styling */
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: skyblue;
+  /* font styling */
+  color: beige;
+  font-size: 8rem;
+  font-weight: bold;
+  font-family: monospace;
+  
+}

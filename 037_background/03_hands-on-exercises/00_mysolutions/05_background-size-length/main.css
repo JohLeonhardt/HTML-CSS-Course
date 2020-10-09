@@ -1,0 +1,5 @@
+body {
+  background-size: 200px 100px;
+  background-image: url(mob3.png);
+  background-repeat: repeat-y;
+}
