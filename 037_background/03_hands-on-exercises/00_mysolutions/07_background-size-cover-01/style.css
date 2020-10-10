@@ -1,0 +1,11 @@
+div {
+  width: 170px;
+  height: 230px;
+  border: 10px groove orange;
+  background-size: cover;
+  background-image: url(mob3.png);
+  background-repeat: no-repeat;
+}
+header {
+  font-weight: bold;
+}
