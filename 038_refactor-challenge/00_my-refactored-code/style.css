@@ -1,0 +1,66 @@
+h1 {
+  color: #094562;
+  font-size: 7rem;
+  font-family: monospace;
+  font-weight: bold;
+  margin: 30px auto 40px auto;
+  text-align: center;
+  text-shadow: 6px 10px 9px skyblue;
+}
+nav {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(135, 206, 235);
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline-block;
+}
+a {
+  margin: 10px;
+  font-size: 1.1em;
+  color: black;
+  text-align: center;
+  border-radius: 10px; 
+  text-decoration: none;
+  font-family: sans-serif;
+  padding: 15px 15px 15px;
+  background-color: lightseagreen;
+  border-top: 5px solid rgba(67, 63, 63, 0.3);
+  border-bottom: 5px solid rgba(0, 0, 0, 0.639);
+  border-left: 4px solid rgba(67, 63, 63, 0.3);
+  border-right: 4px solid rgba(0,0,0,0.639);
+}
+a:hover {
+  background-color: lime;
+}
+main {
+  font-size: 2rem;
+  background-image: url(img/land.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+div {
+    height: 170px;
+    text-align: center;
+    padding: 10px white;
+    background-color: transparent;
+    margin: 20px 20px 20px 20px white;
+}
+.One {
+    background-color: rgba(154, 213, 242, 0.25);
+}
+.Two {
+    background-color: rgb(132, 193, 27, 0.25);
+}
+.Three {
+    background-color: rgb(238, 171, 46, 0.25);
+}
+.Four {
+    background-color: rgb(240, 119, 218, 0.25);
+}

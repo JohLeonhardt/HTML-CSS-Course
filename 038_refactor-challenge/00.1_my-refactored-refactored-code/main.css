@@ -1,0 +1,16 @@
+html, body, div, nav, ul, li, a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+nav, main {
+  width: 100%;
+}
+body {
+  background-image: url(img/land.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top center;
+}

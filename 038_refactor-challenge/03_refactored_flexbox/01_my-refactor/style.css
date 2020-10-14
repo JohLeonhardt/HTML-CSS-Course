@@ -1,0 +1,92 @@
+/* * {
+  border: 1px solid hotpink !important;
+} */
+h1 {
+  color: #094562;
+  font-size: 7rem;
+  font-family: monospace;
+  font-weight: bold;
+  margin: 30px 40px;
+  text-align: center;
+  text-shadow: 6px 10px 9px rgb(87, 80, 235);
+}
+nav {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(135, 206, 235, 0.7);
+}
+ul {
+  display: flex;
+  flex-flow: row wrap;
+  list-style-type: none;
+  padding: 1px;
+  margin: 1px;
+}
+li {
+  padding: 20px;
+}
+a {
+  margin: 1px;
+  font-size: 1.1em;
+  color: black;
+  text-align: center;
+  border-radius: 10px; 
+  text-decoration: none;
+  font-family: sans-serif;
+  padding: 15px 15px 15px;
+  background-color: lightseagreen;
+  border-top: 5px solid rgba(67, 63, 63, 0.3);
+  border-bottom: 5px solid rgba(0, 0, 0, 0.639);
+  border-left: 4px solid rgba(67, 63, 63, 0.3);
+  border-right: 4px solid rgba(0,0,0,0.639);
+}
+a:hover {
+  background-color: lime;
+}
+main {
+  font-size: 2rem;
+}
+div {
+    height: 300px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: fantasy;
+    background-color: transparent;
+}
+.One {
+    background-color: rgba(154, 213, 242, 0.25);
+}
+.Two {
+    background-color: rgb(132, 193, 27, 0.25);
+}
+.Three {
+    background-color: rgb(238, 171, 46, 0.25);
+}
+.Four {
+    background-color: rgb(240, 119, 218, 0.25);
+  }
+.Five {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.25);
+  height: 1000px;
+}
+#tank {
+  position: absolute;
+  bottom: 4%;
+  left: 6%;
+  width: 550px;
+  height: 400px;
+  background-image: url(img/T1.png);
+  background-repeat: no-repeat;
+}
+#mob {
+  position: absolute;
+  bottom: 1%;
+  left: 40%;
+  width: 550px;
+  height: 400px;
+  background-image: url(img/mob1.png);
+  background-repeat: no-repeat;
+}
