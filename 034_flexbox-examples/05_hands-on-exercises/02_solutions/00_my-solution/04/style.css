@@ -30,7 +30,7 @@ aside:nth-child(4) {
     justify-content: center;
 }
 footer {
-    background: rgb(147, 209, 230);
+    background-color: rgb(147, 209, 230);
     font-size: 0.3cm;
     text-align: center;
     flex-wrap: wrap;
