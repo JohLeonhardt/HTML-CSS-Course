@@ -1,0 +1,18 @@
+/* * {
+  border: 1px solid hotpink !important;
+} */
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(./img/background-photo-mobile-devices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,31 @@
+div {
+  color: aliceblue;
+  font-family: 'Cantarell', sans-serif;
+  justify-content: center;
+  text-align: center;
+  font-weight: lighter;
+}
+h1 {
+  font-size: 120%;
+  padding: 10px;
+  font-weight: lighter;
+}
+h2 {
+  font-size: 80%;
+  margin: 0px;
+  color: rgb(255, 255, 255, 0.8);
+  font-weight: inherit;
+}
+h3 {
+  font-size: 80%;
+  margin: 0px;
+  color: rgb(255, 255, 255, 0.6);
+  font-weight: inherit;
+}
+button {
+  margin-top: 20px;
+  border-radius: 9%;
+  border-color: aliceblue;
+  background-color: rgb(252, 252, 252, 0);
+  color: rgb(250, 250, 250, 0.7);
+}
