@@ -1,0 +1,126 @@
+/* * {
+  border: 1px solid hotpink !important;
+} */
+html {
+    font-family: 'Cantarell', sans-serif;
+    color: whitesmoke;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2.8rem;
+    display: flex;
+    /*flex-direction: row;*/
+    /*flex-wrap: nowrap;*/
+    /*flex-flow: row nowrap;*/
+    justify-content: space-between;
+    align-items: center;
+    /* formatting */
+    background-color: rgba(0,0,0,.6);
+}
+
+header div {
+    width: 200px;
+    height: 80%;
+    margin: 0 1rem;
+}
+header nav {
+  width: 250px;
+  height: 80%;
+  margin: 0 1rem;
+}
+div h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+  margin-top: 0.3rem;
+}
+header div:hover {
+  font-weight: bolder;
+  border-radius: 9%;
+  border-top: 1px solid rgba(255, 253, 253);
+  border-bottom: 3px solid rgba(130, 128, 128);
+  border-left: 1px solid rgba(255, 253, 253);
+  border-right: 3px solid rgba(130, 128, 128);
+}
+nav svg {
+  width: 2rem;
+  height: 1.8rem;
+  margin-left: 20px;
+  fill: white;
+}
+.c0 {
+  width: 2.1rem;
+  height: 2.2rem;
+  fill: white;
+}
+svg:hover {
+  fill: lime;
+  border-radius: 9%;
+  border-top: 1px solid rgba(255, 253, 253);
+  border-bottom: 3px solid rgba(130, 128, 128);
+  border-left: 1px solid rgba(255, 253, 253);
+  border-right: 3px solid rgba(130, 128, 128);
+}
+#idx-atf {
+  height: 100vh;
+  /* layout */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background */
+  background-color: #5b5b5b;
+  background-image: url("../img/background-photo-mobile-devices.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /*background-origin: border-box;*/
+  background-attachment: fixed;
+  /* formatting */
+}
+#idx-atf > div {
+  height: 90vh;
+}
+.idx-center-spacebetween {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.idx-center-center {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+  font-size: 2rem;
+}
+h2 {
+  font-weight: 700;
+  font-size: 1.4rem;
+  text-align: center;
+}
+h3 {
+  font-size: 1.4rem;
+  margin-top: .8rem;
+  text-align: center;
+  line-height: 1.2;
+}
+button {
+  color: rgb(202, 250, 234);
+  font-size: 1.4rem;
+  font-weight: 700;
+  border: 1px solid rgb(202, 250, 234);
+  padding: .7rem 1.2rem;
+  border-radius: 3px;
+}
+button:hover {
+  color: lime;
+  border: 1px solid lime;
+}
