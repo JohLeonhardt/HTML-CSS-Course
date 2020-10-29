@@ -1,0 +1,30 @@
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  font-size: 5rem;
+  padding: 70px;
+}
+.minus, .plus {
+  color: white;
+  background-color: rgb(145, 179, 206);
+  padding: 30px 100px 30px 100px;
+  border: 3px solid rgb(88, 136, 177);
+}
+.minus:hover, .plus:hover {
+  background-color: rgb(75, 149, 210);
+}
+.minus {
+  border-top-left-radius: 9%;
+  border-bottom-left-radius: 9%;
+}
+.plus {
+  border-top-right-radius: 9%;
+  border-bottom-right-radius: 9%;
+}
+h1 {
+  padding: 30px 150px 30px 150px;
+  border: 3px solid rgb(88, 136, 177);
+}
